@@ -15,7 +15,7 @@
         }
 
         body {
-            background-color: var(--light);
+            background-color:rgba(145, 199, 199, 0.507);
             color: var(--dark);
             line-height: 1.6;
             text-align: justify;
